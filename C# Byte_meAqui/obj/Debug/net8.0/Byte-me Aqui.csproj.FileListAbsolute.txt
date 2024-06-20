@@ -1,0 +1,32 @@
+C:\Users\eduardo.toledo\Desktop\C#\Byte-me Aqui\obj\Debug\net8.0\Byte-me Aqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.toledo\Desktop\C#\Byte-me Aqui\obj\Debug\net8.0\Byte-me Aqui.AssemblyInfoInputs.cache
+C:\Users\eduardo.toledo\Desktop\C#\Byte-me Aqui\obj\Debug\net8.0\Byte-me Aqui.AssemblyInfo.cs
+C:\Users\eduardo.toledo\Desktop\C#\Byte-me Aqui\obj\Debug\net8.0\Byte-me Aqui.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.exe
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.deps.json
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.runtimeconfig.json
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.dll
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.pdb
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.AssemblyInfoInputs.cache
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.AssemblyInfo.cs
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.dll
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\refint\Byte-me Aqui.dll
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.pdb
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.genruntimeconfig.cache
+C:\Users\eduardo.toledo\Desktop\C#\Byte_meAqui\obj\Debug\net8.0\ref\Byte-me Aqui.dll
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.exe
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.deps.json
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.runtimeconfig.json
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.dll
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\bin\Debug\net8.0\Byte-me Aqui.pdb
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.AssemblyInfoInputs.cache
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.AssemblyInfo.cs
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.dll
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\refint\Byte-me Aqui.dll
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.pdb
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\Byte-me Aqui.genruntimeconfig.cache
+C:\Users\eduardo.toledo\Documents\Byte_meAqui\obj\Debug\net8.0\ref\Byte-me Aqui.dll

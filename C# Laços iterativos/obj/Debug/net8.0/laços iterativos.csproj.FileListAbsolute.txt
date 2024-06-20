@@ -1,0 +1,14 @@
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\bin\Debug\net8.0\laços iterativos.exe
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\bin\Debug\net8.0\laços iterativos.deps.json
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\bin\Debug\net8.0\laços iterativos.runtimeconfig.json
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\bin\Debug\net8.0\laços iterativos.dll
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\bin\Debug\net8.0\laços iterativos.pdb
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\laços iterativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\laços iterativos.AssemblyInfoInputs.cache
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\laços iterativos.AssemblyInfo.cs
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\laços iterativos.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\laços iterativos.dll
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\refint\laços iterativos.dll
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\laços iterativos.pdb
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\laços iterativos.genruntimeconfig.cache
+C:\Users\eduardo.toledo\Desktop\C#\laços iterativos\obj\Debug\net8.0\ref\laços iterativos.dll
